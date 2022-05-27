@@ -1,5 +1,5 @@
 {
-  "name": "mat-select-autocomplete",
+  "name": "rs-select-autocomplete",
   "version": "1.3.0",
   "description": "Angular material select component with autocomplete and select all features",
   "keywords": [
@@ -11,10 +11,12 @@
     "autocomplete"
   ],
   "peerDependencies": {
-    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
-    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
-    "@angular/animations": "^6.1.10",
-    "@angular/cdk": "^7.3.3",
-    "@angular/material": "^7.3.3"
+    "@angular/animations": "^8.2.14",
+    "@angular/cdk": "^8.2.3",
+    "@angular/common": "^8.2.14",
+    "@angular/compiler": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "@angular/forms": "^8.2.14",
+    "@angular/material": "^8.2.3"
   }
 }
