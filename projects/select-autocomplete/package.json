@@ -1,6 +1,6 @@
 {
-  "name": "rs-select-autocomplete",
-  "version": "1.3.0",
+  "name": "@rs-pk/select-autocomplete",
+  "version": "1.0.0",
   "description": "Angular material select component with autocomplete and select all features",
   "keywords": [
     "Angular",
